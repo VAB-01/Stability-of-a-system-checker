@@ -1,5 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
 import ctrl   # NEED TO INSTALL IF NOT AVAILABLE USING PIP INSTALL 
 
 # MAKE A NOTE THAT SYSTEMS ARE FIRST ORDER AND VARY AS PER REQUIREMENT
